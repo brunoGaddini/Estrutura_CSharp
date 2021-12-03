@@ -14,6 +14,7 @@ namespace Estrutura_CSharp
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
             Console.WriteLine(s.Desempilha());
+            Console.WriteLine(s.Desempilha());
         }
     }
 }
